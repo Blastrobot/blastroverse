@@ -1,6 +1,16 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Blastroverse
+🚀 Ready to get into the adventure? Enjoy the Metaverse, take a step into the future by exploring the web like you never imagined before.
+
+## Demo
+
+https://github.com/Blastrobot/blastroverse/assets/114672545/b2a07318-7366-466c-bfd7-e60f3f00f016
+
+![image](https://github.com/Blastrobot/blastroverse/assets/114672545/4be6b6ef-b944-4e0d-b851-c860f098523a)
+![image](https://github.com/Blastrobot/blastroverse/assets/114672545/e487f8d9-177e-46bb-be8a-9a417803de27)
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
